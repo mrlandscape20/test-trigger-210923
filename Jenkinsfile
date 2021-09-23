@@ -1,5 +1,5 @@
 pipeline {
-    agent any //test
+    agent any //must run manually job before
 
     stages {
         stage('Hello') {
